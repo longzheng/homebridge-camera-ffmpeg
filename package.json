@@ -61,7 +61,7 @@
     "mqtt": "^4.1.0"
   },
   "dependencies": {
-    "ffmpeg-for-homebridge": "0.0.6",
+    "ffmpeg-for-homebridge": "0.0.7",
     "ip": "^1.1.5",
     "debug": "^4.1.1",
     "mqtt": "^4.1.0"
